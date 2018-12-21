@@ -1,1 +1,1 @@
-12312312313123123213
+{"service":[{"ip":"192.168.1.1","port":1234,"protocol":"v1","password":"12dsadas","load":1},{"ip":"192.168.1.1","port":1234,"protocol":"v1","password":"12dsadas","load":1}],"domainBack":""}
